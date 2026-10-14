@@ -1,0 +1,6 @@
+{
+  "name": "Mummy's Tiffin",
+  "description": "Authentic home-cooked meal delivery platform connecting mother chefs with students and professionals in Vadodara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
